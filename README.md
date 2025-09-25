@@ -2,6 +2,9 @@
 
 A real-time sign language recognition system using Python, OpenCV, MediaPipe, and scikit-learn. This project captures hand signs via webcam, processes them to extract hand landmarks, and classifies them as A, B, or C using a trained machine learning model.
 
+## Demo
+![alt text](GIF_Signlanguage.gif)
+
 ## Features
 - Real-time hand sign recognition using webcam
 - Uses MediaPipe for hand landmark detection
@@ -9,8 +12,6 @@ A real-time sign language recognition system using Python, OpenCV, MediaPipe, an
 - Easy to extend for more sign classes
 - User-friendly interface with live prediction and confidence score
 
-## Demo
-![alt text](GIF_Signlanguage.gif)
 
 ## Project Structure
 ```
