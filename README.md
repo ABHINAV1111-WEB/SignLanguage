@@ -30,7 +30,7 @@ A real-time sign language recognition system using Python, OpenCV, MediaPipe, an
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/sign-language-recognition.git
+   git clone https://github.com/ABHINAV1111-WEB/SignLanguage
    cd sign-language-recognition
    ```
 
